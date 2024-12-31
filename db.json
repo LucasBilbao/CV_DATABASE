@@ -1,0 +1,54 @@
+{
+  "educations": [
+    {
+      "level": "Bachelor",
+      "specialty": "Mathematics",
+      "school": "Tbilisi State University (TSU)",
+      "start": 1567281600000,
+      "end": 1690833600000,
+      "country": "Georgia",
+      "url": "https://tsu.ge/",
+      "isOngoing": false
+    },
+    {
+      "level": "Master",
+      "specialty": "Information Technologies",
+      "school": "Tbilisi State University (TSU)",
+      "start": 1696104000000,
+      "end": null,
+      "country": "Georgia",
+      "url": "https://tsu.ge/",
+      "isOngoing": true
+    },
+    {
+      "level": "Master",
+      "specialty": "Information Technologies",
+      "school": "Østfold University College",
+      "start": 1722456000000,
+      "end": 1732996800000,
+      "country": "Norway",
+      "url": "https://www.hiof.no/english/",
+      "isOngoing": false
+    },
+    {
+      "level": null,
+      "specialty": "Front-End Developer",
+      "school": "RS School",
+      "start": 1625083200000,
+      "end": 1638302400000,
+      "country": "Georgia",
+      "url": "https://rs.school/",
+      "isOngoing": false
+    },
+    {
+      "level": null,
+      "specialty": "PHP/Laravel - Vue Developer",
+      "school": "Redberry",
+      "start": 1709236800000,
+      "end": 1719777600000,
+      "country": "Georgia",
+      "url": "https://redberry.international/",
+      "isOngoing": false
+    }
+  ]
+}
