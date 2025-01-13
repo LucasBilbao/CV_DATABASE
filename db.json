@@ -50,5 +50,107 @@
       "url": "https://redberry.international/",
       "isOngoing": false
     }
+  ],
+  "skills": [
+    {
+      "skill": "JavaScript",
+      "level": 4
+    },
+    {
+      "skill": "HTML",
+      "level": 3
+    },
+    {
+      "skill": "CSS/SCSS",
+      "level": 3
+    },
+    {
+      "skill": "Angular",
+      "level": 2
+    },
+    {
+      "skill": "NgRx",
+      "level": 1
+    },
+    {
+      "skill": "RxJS",
+      "level": 2
+    },
+    {
+      "skill": "Mathematics",
+      "level": 3
+    },
+    {
+      "skill": "ReactJS",
+      "level": 1
+    },
+    {
+      "skill": "Git",
+      "level": 3
+    },
+    {
+      "skill": "Vue",
+      "level": 2
+    },
+    {
+      "skill": "TypeScript",
+      "level": 3
+    },
+    {
+      "skill": "NodeJS",
+      "level": 1
+    },
+    {
+      "skill": "Tailwind",
+      "level": 3
+    },
+    {
+      "skill": "C++",
+      "level": 2
+    },
+    {
+      "skill": "Java",
+      "level": 1
+    },
+    {
+      "skill": "Python",
+      "level": 1
+    },
+    {
+      "skill": "SQL",
+      "level": 1
+    },
+    {
+      "skill": "PHP",
+      "level": 2
+    },
+    {
+      "skill": "Laravel",
+      "level": 2
+    },
+    {
+      "skill": "Rust",
+      "level": 0
+    },
+    {
+      "skill": "MathLab",
+      "level": 2
+    },
+    {
+      "skill": "Wolfram Mathematica",
+      "level": 2
+    },
+    {
+      "skill": "Georgian",
+      "level": 4
+    },
+    {
+      "skill": "English",
+      "level": 4
+    },
+    {
+      "skill": "Greek",
+      "level": 2
+    }
   ]
 }
