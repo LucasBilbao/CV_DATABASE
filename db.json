@@ -152,5 +152,66 @@
       "skill": "Greek",
       "level": 2
     }
+  ],
+  "projects": [
+    {
+      "title": "Lorem ipsum, dolor sit amet consectetur adipisicing.",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, deleniti, ex alias dignissimos illum nesciunt beatae exercitationem, magnam explicabo molestias quos doloremque modi ullam distinctio quidem iste eum omnis molestiae laborum dolore consequuntur commodi amet earum. Ipsam reprehenderit quis tempore dolores aliquid dolorum, temporibus laborum aperiam necessitatibus magni placeat voluptatem!",
+      "tags": [
+        "HTML",
+        "CSS",
+        "JS",
+        "HTML",
+        "CSS",
+        "JS",
+        "HTML",
+        "CSS",
+        "JS",
+        "HTML",
+        "CSS",
+        "JS",
+        "HTML",
+        "CSS",
+        "JS",
+        "HTML"
+      ],
+      "deploymentUrl": "example",
+      "repositoryUrl": "example"
+    },
+    {
+      "title": "Lorem ipsum, dolor sit amet consectetur adipisicing.",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, deleniti, ex alias dignissimos illum nesciunt beatae exercitationem, magnam explicabo molestias quos doloremque modi ullam distinctio quidem iste eum omnis molestiae laborum dolore consequuntur commodi amet earum. Ipsam reprehenderit quis tempore dolores aliquid dolorum, temporibus laborum aperiam necessitatibus magni placeat voluptatem!",
+      "tags": ["HTML", "CSS", "JS"],
+      "deploymentUrl": "example",
+      "repositoryUrl": "example"
+    },
+    {
+      "title": "Lorem ipsum, dolor sit amet consectetur adipisicing.",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, deleniti, ex alias dignissimos illum nesciunt beatae exercitationem, magnam explicabo molestias quos doloremque modi ullam distinctio quidem iste eum omnis molestiae laborum dolore consequuntur commodi amet earum. Ipsam reprehenderit quis tempore dolores aliquid dolorum, temporibus laborum aperiam necessitatibus magni placeat voluptatem!",
+      "tags": ["HTML", "CSS", "JS"],
+      "deploymentUrl": "example",
+      "repositoryUrl": "example"
+    },
+    {
+      "title": "Lorem ipsum, dolor sit amet consectetur adipisicing.",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, deleniti, ex alias dignissimos illum nesciunt beatae exercitationem, magnam explicabo molestias quos doloremque modi ullam distinctio quidem iste eum omnis molestiae laborum dolore consequuntur commodi amet earum. Ipsam reprehenderit quis tempore dolores aliquid dolorum, temporibus laborum aperiam necessitatibus magni placeat voluptatem!",
+      "tags": ["HTML", "CSS", "JS"],
+      "deploymentUrl": "example",
+      "repositoryUrl": "example"
+    },
+    {
+      "title": "Lorem ipsum, dolor sit amet consectetur adipisicing.",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, deleniti, ex alias dignissimos illum nesciunt beatae exercitationem, magnam explicabo molestias quos doloremque modi ullam distinctio quidem iste eum omnis molestiae laborum dolore consequuntur commodi amet earum. Ipsam reprehenderit quis tempore dolores aliquid dolorum, temporibus laborum aperiam necessitatibus magni placeat voluptatem!",
+      "tags": ["HTML", "CSS", "JS"],
+      "deploymentUrl": "example",
+      "repositoryUrl": "example"
+    },
+    {
+      "title": "Lorem ipsum, dolor sit amet consectetur adipisicing.",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, deleniti, ex alias dignissimos illum nesciunt beatae exercitationem, magnam explicabo molestias quos doloremque modi ullam distinctio quidem iste eum omnis molestiae laborum dolore consequuntur commodi amet earum. Ipsam reprehenderit quis tempore dolores aliquid dolorum, temporibus laborum aperiam necessitatibus magni placeat voluptatem!",
+      "tags": ["HTML", "CSS", "JS"],
+      "deploymentUrl": "example",
+      "repositoryUrl": "example"
+    }
   ]
 }
