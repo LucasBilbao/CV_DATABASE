@@ -220,6 +220,8 @@
       "company": "Epam Systems",
       "start": 1643659200000,
       "end": 1709236800000,
+      "city": "Tbilisi",
+      "country": "Georgia",
       "description": "Collaborated with diverse teams across multiple projects, gaining extensive experience in teamwork and cross-functional communication.\nContributed to project development through unit testing, bug fixes, and feature enhancements, ensuring high-quality code and application performance.\nAcquired proficiency in LightningJS, a specialized library for TV app development, by independently learning and applying it to deliver robust and innovative solutions.\nDemonstrated adaptability by quickly mastering new technologies and methodologies to meet project requirements and deadlines."
     },
     {
@@ -227,6 +229,8 @@
       "company": "Redberry International",
       "start": 1709236800000,
       "end": 1719777600000,
+      "city": "Tbilisi",
+      "country": "Georgia",
       "description": "During this internship, I gained hands-on experience in full-stack development using PHP/Laravel for backend development and Vue.js for frontend development.\nI contributed to two key projects:\n1. The first project utilized Laravel Blade Templates for the frontend, PHP/Laravel for the backend, and an SQL database.\n2. The second project involved building a dynamic frontend with Vue.js, while leveraging PHP/Laravel for backend functionality and an SQL database for data management.\nThrough these projects, I strengthened my skills in both frontend and backend development, as well as database integration."
     }
   ]
