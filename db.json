@@ -39,16 +39,6 @@
       "country": "Georgia",
       "url": "https://rs.school/",
       "isOngoing": false
-    },
-    {
-      "level": null,
-      "specialty": "PHP/Laravel - Vue Developer",
-      "school": "Redberry",
-      "start": 1709236800000,
-      "end": 1719777600000,
-      "country": "Georgia",
-      "url": "https://redberry.international/",
-      "isOngoing": false
     }
   ],
   "skills": [
@@ -155,68 +145,58 @@
   ],
   "projects": [
     {
-      "title": "Lorem ipsum, dolor sit amet consectetur adipisicing.",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, deleniti, ex alias dignissimos illum nesciunt beatae exercitationem, magnam explicabo molestias quos doloremque modi ullam distinctio quidem iste eum omnis molestiae laborum dolore consequuntur commodi amet earum. Ipsam reprehenderit quis tempore dolores aliquid dolorum, temporibus laborum aperiam necessitatibus magni placeat voluptatem!",
-      "tags": [
-        "HTML",
-        "CSS",
-        "JS",
-        "HTML",
-        "CSS",
-        "JS",
-        "HTML",
-        "CSS",
-        "JS",
-        "HTML",
-        "CSS",
-        "JS",
-        "HTML",
-        "CSS",
-        "JS",
-        "HTML"
-      ],
-      "deploymentUrl": "example",
-      "repositoryUrl": "example"
+      "title": "CV",
+      "description": "CV Web Application, a dynamic and visually engaging way to explore my professional journey, skills, and accomplishments. This web app is more than just a traditional resume—it's a personalized platform designed to provide a comprehensive and interactive overview of who I am and what I bring to the table.",
+      "tags": ["Angular", "SCSS", "TS", "RxJS"],
+      "deploymentUrl": "https://luka-s-cv-6dde7.web.app/",
+      "repositoryUrl": "https://github.com/LucasBilbao/CV"
     },
     {
-      "title": "Lorem ipsum, dolor sit amet consectetur adipisicing.",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, deleniti, ex alias dignissimos illum nesciunt beatae exercitationem, magnam explicabo molestias quos doloremque modi ullam distinctio quidem iste eum omnis molestiae laborum dolore consequuntur commodi amet earum. Ipsam reprehenderit quis tempore dolores aliquid dolorum, temporibus laborum aperiam necessitatibus magni placeat voluptatem!",
-      "tags": ["HTML", "CSS", "JS"],
-      "deploymentUrl": "example",
-      "repositoryUrl": "example"
+      "title": "IceBreaker",
+      "description": "The IceBreaker is an innovative Arduino-based device designed to help people overcome social anxiety and foster meaningful conversations. Perfect for group settings, this device randomly selects a common topic or question, encouraging participants to take turns speaking and sharing their thoughts. Whether you're at a networking event, team-building activity, or just hanging out with friends, The IceBreaker creates a comfortable and inclusive environment for everyone to engage.",
+      "tags": ["C++", "Arduino"],
+      "deploymentUrl": "https://github.com/LucasBilbao/IceBreaker",
+      "repositoryUrl": "https://github.com/LucasBilbao/IceBreaker"
     },
     {
-      "title": "Lorem ipsum, dolor sit amet consectetur adipisicing.",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, deleniti, ex alias dignissimos illum nesciunt beatae exercitationem, magnam explicabo molestias quos doloremque modi ullam distinctio quidem iste eum omnis molestiae laborum dolore consequuntur commodi amet earum. Ipsam reprehenderit quis tempore dolores aliquid dolorum, temporibus laborum aperiam necessitatibus magni placeat voluptatem!",
-      "tags": ["HTML", "CSS", "JS"],
-      "deploymentUrl": "example",
-      "repositoryUrl": "example"
+      "title": "English for Kids",
+      "description": "English for Kids is a fun and interactive web app designed to help young learners build their English vocabulary while leveraging their native Georgian language. Perfect for children and beginners, this app provides a simple and engaging way to learn essential English words through visual aids, audio pronunciations, and bilingual support.",
+      "tags": ["HTML", "CSS", "JS", "Webpack"],
+      "deploymentUrl": "https://lucasbilbao.github.io/English-for-Kids/main/main.html",
+      "repositoryUrl": "https://github.com/LucasBilbao/English-for-Kids?tab=readme-ov-file"
     },
     {
-      "title": "Lorem ipsum, dolor sit amet consectetur adipisicing.",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, deleniti, ex alias dignissimos illum nesciunt beatae exercitationem, magnam explicabo molestias quos doloremque modi ullam distinctio quidem iste eum omnis molestiae laborum dolore consequuntur commodi amet earum. Ipsam reprehenderit quis tempore dolores aliquid dolorum, temporibus laborum aperiam necessitatibus magni placeat voluptatem!",
+      "title": "Virtual Keyboard",
+      "description": "Virtual Keyboard, a versatile and user-friendly web app that brings the convenience of a keyboard to your screen. Whether you're using a touchscreen device, a kiosk, or just prefer an on-screen typing experience, this virtual keyboard is designed to meet your needs with ease and efficiency. With support for both English and Georgian languages, it’s the perfect tool for bilingual typing!",
       "tags": ["HTML", "CSS", "JS"],
-      "deploymentUrl": "example",
-      "repositoryUrl": "example"
+      "deploymentUrl": "https://lucasbilbao.github.io/Virtual-Keyboard/Keyboard/",
+      "repositoryUrl": "https://github.com/LucasBilbao/Virtual-Keyboard/tree/virtual-keyboard/Keyboard"
     },
     {
-      "title": "Lorem ipsum, dolor sit amet consectetur adipisicing.",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, deleniti, ex alias dignissimos illum nesciunt beatae exercitationem, magnam explicabo molestias quos doloremque modi ullam distinctio quidem iste eum omnis molestiae laborum dolore consequuntur commodi amet earum. Ipsam reprehenderit quis tempore dolores aliquid dolorum, temporibus laborum aperiam necessitatibus magni placeat voluptatem!",
+      "title": "Breakout",
+      "description": "Breakout, a modern twist on the timeless arcade classic! Breakout has been adapted for the web, offering the same addictive gameplay you know and love, with a fresh and user-friendly experience. Whether you're a nostalgic gamer or new to the world of Breakout, this web app is your go-to destination for fun and challenge.",
       "tags": ["HTML", "CSS", "JS"],
-      "deploymentUrl": "example",
-      "repositoryUrl": "example"
+      "deploymentUrl": "https://lucasbilbao.github.io/Breakout/Breakout/",
+      "repositoryUrl": "https://github.com/LucasBilbao/Breakout/tree/breakout/Breakout"
     },
     {
-      "title": "Lorem ipsum, dolor sit amet consectetur adipisicing.",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, deleniti, ex alias dignissimos illum nesciunt beatae exercitationem, magnam explicabo molestias quos doloremque modi ullam distinctio quidem iste eum omnis molestiae laborum dolore consequuntur commodi amet earum. Ipsam reprehenderit quis tempore dolores aliquid dolorum, temporibus laborum aperiam necessitatibus magni placeat voluptatem!",
+      "title": "Luka's Quizzes",
+      "description": "Luka's Quizzes, the ultimate platform for quiz enthusiasts! Whether you're a trivia lover, a teacher, or just someone who enjoys challenging yourself and others, this website offers a fun and interactive way to create, play, and track quizzes. With a focus on simplicity and engagement, Luka's Quizzes makes learning and competing enjoyable for everyone.",
+      "tags": ["HTML", "CSS", "JS, PHP"],
+      "deploymentUrl": "https://lucasbilbao.github.io/Lukas_Quizzes/",
+      "repositoryUrl": "https://github.com/LucasBilbao/Lukas_Quizzes/tree/develope"
+    },
+    {
+      "title": "Calculator",
+      "description": "The Calculator , a simple yet powerful online tool designed to make your everyday calculations effortless. Whether you're a student, professional, or just someone who needs quick math solutions, this website is here to help you solve problems with ease and precision.",
       "tags": ["HTML", "CSS", "JS"],
-      "deploymentUrl": "example",
-      "repositoryUrl": "example"
+      "deploymentUrl": "https://lucasbilbao.github.io/Calculator/Calculator/",
+      "repositoryUrl": "https://github.com/LucasBilbao/Calculator/tree/calculator"
     }
   ],
   "experiences": [
     {
-      "title": "Junior Software Engineer",
+      "title": "Angular Software Engineer",
       "company": "Epam Systems",
       "start": 1643659200000,
       "end": 1709236800000,
