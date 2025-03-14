@@ -167,7 +167,7 @@
     },
     {
       "title": "Virtual Keyboard",
-      "description": "Virtual Keyboard, a versatile and user-friendly web app that brings the convenience of a keyboard to your screen. Whether you're using a touchscreen device, a kiosk, or just prefer an on-screen typing experience, this virtual keyboard is designed to meet your needs with ease and efficiency. With support for both English and Georgian languages, it’s the perfect tool for bilingual typing!",
+      "description": "Virtual Keyboard, a versatile and user-friendly web app that brings the convenience of a keyboard to your screen. Whether you're using a touchscreen device, a kiosk, or just prefer an on-screen typing experience, this virtual keyboard is designed to meet your needs with ease and efficiency. With support for both English and Georgian languages, it's the perfect tool for bilingual typing!",
       "tags": ["HTML", "CSS", "JS"],
       "deploymentUrl": "https://lucasbilbao.github.io/Virtual-Keyboard/Keyboard/",
       "repositoryUrl": "https://github.com/LucasBilbao/Virtual-Keyboard/tree/virtual-keyboard/Keyboard"
@@ -182,7 +182,7 @@
     {
       "title": "Luka's Quizzes",
       "description": "Luka's Quizzes, the ultimate platform for quiz enthusiasts! Whether you're a trivia lover, a teacher, or just someone who enjoys challenging yourself and others, this website offers a fun and interactive way to create, play, and track quizzes. With a focus on simplicity and engagement, Luka's Quizzes makes learning and competing enjoyable for everyone.",
-      "tags": ["HTML", "CSS", "JS, PHP"],
+      "tags": ["HTML", "CSS", "JS", "PHP"],
       "deploymentUrl": "https://lucasbilbao.github.io/Lukas_Quizzes/",
       "repositoryUrl": "https://github.com/LucasBilbao/Lukas_Quizzes/tree/develope"
     },
