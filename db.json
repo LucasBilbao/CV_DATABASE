@@ -48,7 +48,8 @@
     },
     {
       "skill": "NestJS",
-      "level": 1
+      "level": 1,
+      "date": 1696104000000
     },
     {
       "skill": "HTML",
