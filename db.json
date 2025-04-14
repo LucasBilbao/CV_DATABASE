@@ -47,6 +47,10 @@
       "level": 4
     },
     {
+      "skill": "NestJS",
+      "level": 1
+    },
+    {
       "skill": "HTML",
       "level": 3
     },
@@ -100,11 +104,11 @@
     },
     {
       "skill": "Java",
-      "level": 1
+      "level": 0
     },
     {
       "skill": "Python",
-      "level": 1
+      "level": 0
     },
     {
       "skill": "SQL",
