@@ -105,7 +105,28 @@
     },
     {
       "skill": "Java",
-      "level": 0
+      "level": 1,
+      "date": 1747657255341
+    },
+    {
+      "skill": "JUnit",
+      "level": 1,
+      "date": 1747657255341
+    },
+    {
+      "skill": "Mockito",
+      "level": 1,
+      "date": 1747657255341
+    },
+    {
+      "skill": "Design Patterns",
+      "level": 1,
+      "date": 1747657255341
+    },
+    {
+      "skill": "Maven",
+      "level": 1,
+      "date": 1747657255341
     },
     {
       "skill": "Python",
@@ -217,6 +238,15 @@
       "city": "Tbilisi",
       "country": "Georgia",
       "description": "During this internship, I gained hands-on experience in full-stack development using PHP/Laravel for backend development and Vue.js for frontend development.\nI contributed to two key projects:\n1. The first project utilized Laravel Blade Templates for the frontend, PHP/Laravel for the backend, and an SQL database.\n2. The second project involved building a dynamic frontend with Vue.js, while leveraging PHP/Laravel for backend functionality and an SQL database for data management.\nThrough these projects, I strengthened my skills in both frontend and backend development, as well as database integration."
+    },
+    {
+      "title": "Java Trainee",
+      "company": "Epam Systems",
+      "start": 1744660800000,
+      "end": null,
+      "city": "Tbilisi",
+      "country": "Georgia",
+      "description": "Skills Developed:\nDeeper understanding of OOP, Design Pattern and coding principles (e.g. SOLID, KISS)\nTest Driven Development and technologies used for Java Testing (e.g. JUnit, Mockito)\nMaven Build Tool\nMultithreading and Concurrency; JVM Memory Management\nWorking with SQL databases in Java (JDBC)\nSpring Core; Spring MVC; Spring Core"
     }
   ]
 }
