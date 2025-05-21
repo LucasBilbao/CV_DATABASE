@@ -171,20 +171,6 @@
   ],
   "projects": [
     {
-      "title": "FoodLabs",
-      "description": "Discover, create, and explore recipes like never before with our intelligent recipe application. Users can generate personalized recipes by simply describing what they want—our AI instantly crafts detailed, step-by-step instructions. The app also features AI-enhanced search, allowing users to find recipes more accurately through natural language queries, dietary preferences, available ingredients, or desired cuisine. Whether you're an experienced chef or a home cook, our app brings creativity and convenience to your kitchen.",
-      "tags": ["Angular", "TypeScript", "Angular Material", "RxJS"],
-      "deploymentUrl": "https://lucasbilbao.github.io/FoodLabs",
-      "repositoryUrl": "https://github.com/LucasBilbao/FoodLabs"
-    },
-    {
-      "title": "FoodLabs API",
-      "description": "The FoodLabs API empowers developers with advanced AI-driven features for modern recipe applications. It offers intelligent recipe generation, allowing users to create custom recipes based on natural language prompts. The API also includes AI-enhanced search, enabling flexible, accurate querying by ingredients, cuisine, dietary preferences, and more. Built-in pagination support ensures efficient data handling and smooth user experiences across large recipe datasets. Ideal for apps that prioritize personalization, discovery, and performance.",
-      "tags": ["NestJS", "TypeScript", "PostgreSQL", "MySQL"],
-      "deploymentUrl": "https://foodlabs-backend.onrender.com/api/swagger",
-      "repositoryUrl": "https://github.com/LucasBilbao/FoodLabs_Backend"
-    },
-    {
       "title": "CV",
       "description": "CV Web Application, a dynamic and visually engaging way to explore my professional journey, skills, and accomplishments. This web app is more than just a traditional resume—it's a personalized platform designed to provide a comprehensive and interactive overview of who I am and what I bring to the table.",
       "tags": ["Angular", "SCSS", "TS", "RxJS"],
